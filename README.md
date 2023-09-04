@@ -7,4 +7,5 @@ Micron-checkV1.exe
 
 Micron_check
 
-![image](https://github.com/huangpan110/Micron_check/assets/54657169/09188fdb-a381-449a-9931-c2fcda0fc78f)
+![image](https://github.com/huangpan110/Micron_check/assets/54657169/2d0e7934-ef37-44b4-92a4-e491db049f31)
+
